@@ -1,0 +1,294 @@
+/* Medium screen  */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .header-search input {
+        max-width: 315px;
+    }
+
+    .main-menu a
+    {
+        font-size: 12px;
+    }
+
+    .call-btn
+    {
+        padding: 0 10px;
+    }
+
+    .call-btn .box-title {
+        font-size: 12px;
+    }
+
+    .call-btn .box-icon
+    {
+        font-size: 20px;
+    }
+
+    
+
+.hero-title2 {
+    font-size: 42px;
+}
+
+.th-btn
+{
+    font-size: 12px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+   
+    .call-btn .box-title {
+        font-size: 12px;
+    }
+
+    .call-btn .box-title {
+        font-size: 12px;
+    }
+
+    .call-btn
+    {
+        padding: 0 10px;
+    }
+
+    .main-menu a
+    {
+        font-size: 12px;
+    }
+
+    .hero-title2 {
+        font-size: 28px;
+    }
+
+    .th-btn
+    {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+.call-btn
+{
+    display: none;
+}
+
+.header-icons
+{
+    margin-bottom: 15px;
+}
+
+.hero-3 .slider-pagination
+{
+    bottom: 55px;
+}
+.second-box .box-title {
+    margin-left: 0;
+}
+
+.second-box .th-btn.btn-sm {
+    margin-left: 0;
+}
+
+.second-box .box-subtitle {
+    margin-left: 0;
+}
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1500px) and (max-width: 1835px) {
+  
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1499px) {
+   
+   
+
+}
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1545px) {
+  
+}
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# Slider All Responsice Css
+--------------------------------------------------------------*/
+@media only screen and (min-width: 1400px) and (max-width: 1918px) {
+  
+
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+   
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+   
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+
+
+@media only screen and (max-width: 767px) {
+  
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# Main Menu All Responsice Css
+--------------------------------------------------------------*/
+
+@media only screen and (min-width: 1400px) and (max-width: 1600px) {
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+   
+
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+ 
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+@media (max-width: 767px) {
+ 
+
+}
