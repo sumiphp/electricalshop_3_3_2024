@@ -178,7 +178,7 @@ else{
 
 
         $custname=$this->session->userdata('username');
-
+         if ($custname!=''){
 
         $custID=$this->product->getcustdata($custname);
 
@@ -188,6 +188,10 @@ else{
         $this->db->from('wishlist');
         $query = $this->db->get();
         $this->data['wishlistcount'] = $query->num_rows();
+         }else{
+            $this->data['wishlistcount']=0;
+
+         }
         /*$config = array();
         $config["base_url"] = base_url() . "Welcome/listcategory";
         $config["total_rows"] = $this->sm->get_count();

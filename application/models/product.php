@@ -138,10 +138,15 @@ class Product extends CI_Model{
 
 
     public function getcustdata($custID){
+        if ($custID==''){
+return 0;
+        }
+        else{
         $this->db->where('email',$custID);
         $dt=$this->db->get('userlogin')->row();
        //echo $this->db->last_query();
         return $dt->userid;
+        }
 
 
 

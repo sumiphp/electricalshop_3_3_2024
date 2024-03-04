@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/nexa-electricalshop_old/';
+$config['base_url'] = 'http://localhost/electricalshop/';
 //'https://electricalshope.com/';
 
  // 'https://nexa.pocketfriendlyweb.com';
